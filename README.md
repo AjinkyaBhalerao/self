@@ -4,7 +4,7 @@
 
 <h3 align="center">AI Engineer | Generative AI | Multi-Agent Systems | RAG Applications</h3>
 
-![Ajinkya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AjinkyaBhalerao&theme=tokyo-night)
+![Snake animation](https://github.com/ajinkyabhalerao/ajinkyabhalerao/blob/output/github-contribution-grid-snake.svg)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AjinkyaBhalerao&label=Profile%20views&color=0e75b6&style=flat" alt="AjinkyaBhalerao" /> </p>
