@@ -1,8 +1,8 @@
-<h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Ajinkya</h1>
-<h3 align="center">🚀 AI Engineer | Generative AI | Multi-Agent Systems | RAG Applications</h3>
+<h1 align="center">Welcome to my Desk <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h3 align="center"> AI Engineer | Generative AI | Multi-Agent Systems | RAG Applications</h3>
 
 <p align="center">
-  <img alt="Typing animation" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+  ![Ajinkya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AjinkyaBhalerao&theme=tokyo-night)
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AjinkyaBhalerao&label=Profile%20views&color=0e75b6&style=flat" alt="AjinkyaBhalerao" /> </p>
