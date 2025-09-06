@@ -33,6 +33,28 @@
 
 ---
 
+## 🚀 Projects Showcase
+
+- 🧩 [**MarWin – Personalized Digital Marketing Pipeline**](https://github.com/AjinkyaBhalerao)  
+  Multi-agent pipeline with RAG conversational component deployed on Azure. (AutoGen, Neo4j, Flask, React)
+
+- ⚡ [**Dexter ETL – Hierarchical 9-Agent Solution**](https://github.com/AjinkyaBhalerao)  
+  Automated ETL pipeline that reduced processing time from hours to **under 2 minutes**. (OpenAI Agents SDK, Flask)
+
+- 🛡️ [**RAG Chatbot – Legal Policy & Compliance**](https://github.com/AjinkyaBhalerao)  
+  Built with HuggingFace + FAISS, enabling fast and accurate information retrieval for new employees.  
+
+- 🏢 [**Mane Chatbot**](https://github.com/AjinkyaBhalerao/Mane-Project)  
+  Deployed an enterprise chatbot for 1800+ employees to resolve queries. (Python, FastChat, Vicuna)  
+
+- 🎨 [**Metaphor Generation – NVIDIA Project**](https://github.com/AjinkyaBhalerao/Web-Portfolio/blob/main/public/Ajinkya_Bhalerao_NVAITC.pdf)  
+  Leveraged Transformers + LSTM for advanced NLP experiments on RTX 3090 GPUs.  
+
+- 🗂️ [**Synthetic Data Generator**](https://github.com/AjinkyaBhalerao)  
+  Automated workflow creating 10,000+ synthetic records from business schemas. (LangGraph, Pydantic, Python)  
+
+---
+
 ## 🏆 GitHub Trophies
 <details><summary>Click to expand</summary>
 <p align="left">
