@@ -2,7 +2,8 @@
 <h3 align="center"> AI Engineer | Generative AI | Multi-Agent Systems | RAG Applications</h3>
 
 <p align="center">
-  ![Ajinkya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AjinkyaBhalerao&theme=tokyo-night)
+  ![Game Over](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
+
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AjinkyaBhalerao&label=Profile%20views&color=0e75b6&style=flat" alt="AjinkyaBhalerao" /> </p>
