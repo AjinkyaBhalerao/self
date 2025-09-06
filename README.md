@@ -1,9 +1,11 @@
-<h1 align="center">Welcome to my Desk <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center"> AI Engineer | Generative AI | Multi-Agent Systems | RAG Applications</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=3FF779&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Ajinkya!;AI+Engineer+%7C+Generative+AI+%7C+Multi-Agent+Systems;Building+RAG+Apps+and+AgentOps+Pipelines" alt="Typing SVG" />
+</h1>
+
+<h3 align="center">AI Engineer | Generative AI | Multi-Agent Systems | RAG Applications</h3>
 
 <p align="center">
-  ![Game Over](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
-
+  <img alt="Typing animation" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AjinkyaBhalerao&label=Profile%20views&color=0e75b6&style=flat" alt="AjinkyaBhalerao" /> </p>
@@ -65,15 +67,26 @@
 
 ---
 
+## 📈 Contribution Graph (Snake Animation)
+![snake gif](https://github.com/AjinkyaBhalerao/AjinkyaBhalerao/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 📊 GitHub Activity
+![Ajinkya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AjinkyaBhalerao&theme=tokyo-night)
+
+---
+
 ## 🛠️ Languages & Tools
 <p align="left">
-<a href="https://azure.microsoft.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-azure-3.svg" alt="Azure" width="40"/> </a>
-<a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40"/> </a>
-<a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40"/> </a>
-<a href="https://react.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40"/> </a>
-<a href="https://www.postgresql.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40"/> </a>
-<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40"/> </a>
-<a href="https://huggingface.co/" target="_blank"> <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="HuggingFace" width="40"/> </a>
+<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="50"/> <!-- Python -->
+<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="50"/> <!-- Git -->
+<img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="50"/> <!-- Linux -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50"/> <!-- React -->
+<img src="https://cdn.worldvectorlogo.com/logos/microsoft-azure-3.svg" width="50"/> <!-- Azure -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50"/> <!-- PostgreSQL -->
+<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="50"/> <!-- Docker -->
+<img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="50"/> <!-- Hugging Face -->
 </p>
 
 ---
@@ -84,3 +97,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AjinkyaBhalerao&show_icons=true&locale=en" alt="AjinkyaBhalerao" /></p>
 
 ---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200"><br>
+  <b>“Thanks for stopping by – Keep building cool stuff 👨‍💻”</b>
+</p>
