@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=3FF779&center=true&vCenter=true&width=600&lines=Welcome to my Desk!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=3FF779&center=true&vCenter=true&width=600&lines=Welcome+to+my+Desk!" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">AI Engineer | Generative AI | Multi-Agent Systems | RAG Applications</h3>
